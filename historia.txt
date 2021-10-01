@@ -1,1 +1,3 @@
 esta es mi historia, el primer documento
+este es el primer dia que empece el curso de git
+iniciando mi camino para ser hacker
