@@ -3,4 +3,6 @@ este es el primer dia que empece el curso de git
 iniciando mi camino para ser hacker
 
 Master 1
+
+Master 2
 uno muy bueno
